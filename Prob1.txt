@@ -1,0 +1,3 @@
+# Just enter what zip code you used below! And upload your log of temperatures!
+
+Zip code used: 

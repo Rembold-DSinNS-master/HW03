@@ -1,0 +1,13 @@
+# This is all about bringing together specific data, with some substitutions thrown in as well.
+
+Commands used:
+
+
+
+
+
+
+
+
+Final output:
+
